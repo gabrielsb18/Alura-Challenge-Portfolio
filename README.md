@@ -4,13 +4,13 @@
 # Alura-Challenge-Portfolio
 *Projeto desenvolvido para pratica de conhecimento da formação Front-End*
 
-## Como Rodar o app:
+## Como Acessar:
 
 <div>
  
   #### 1) Acesse o deploy através do seguinte link
   
-     git clone 'link'
+      https://gabriel-dev-alura-challenge.vercel.app/
   
 </div>
 
