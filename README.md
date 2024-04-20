@@ -1,2 +1,30 @@
+![image](https://github.com/gabrielsb18/PI_Mobile/assets/131284177/e4fa420a-e7de-438a-ac34-6f847a3b090e)
+
+
 # Alura-Challenge-Portfolio
-Challenge desenvolvido para aplicação de conhecimento da formação Front-End
+*Projeto desenvolvido para pratica de conhecimento da formação Front-End*
+
+## Como Rodar o app:
+
+<div>
+ 
+  #### 1) Acesse o deploy através do seguinte link
+  
+     git clone 'link'
+  
+</div>
+
+## Tecnologias utlizadas:
+
+<div>
+ <img src=	"https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
+ <img src=	"	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ <img src=	"https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+ <img src=	"https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
+
+
+## Links:
+<div>
+  <a href="https://www.figma.com/file/O8T1DoMEDwrdZq5Akn4sGY/Simples--Portf%C3%B3lio?type=design&node-id=0-1&mode=design&t=peVmyHeU3XYrkA3v-0"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+<div>
