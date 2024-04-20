@@ -1,4 +1,4 @@
-![image](https://github.com/gabrielsb18/PI_Mobile/assets/131284177/e4fa420a-e7de-438a-ac34-6f847a3b090e)
+![image](https://github.com/gabrielsb18/Alura-Challenge-Portfolio/blob/main/Front-end-Alura%20Challenge%20-%20Portf%C3%B3lio.png)
 
 
 # Alura-Challenge-Portfolio
